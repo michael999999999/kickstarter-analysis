@@ -1,10 +1,11 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends 
-# Kickstarting with Excel
+Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
+Louise is looking to initiate a Kickstarter campaign for her latest creation, a play entitled "Fever".
 
 ### Purpose
+Louise would like an analysis of recent Kickstarter campaigns to determine if there are any characteristics shared amongst successful campaigns.
 
 ## Analysis and Challenges
 
