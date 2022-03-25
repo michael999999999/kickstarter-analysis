@@ -11,7 +11,7 @@ Louise would like an analysis of recent Kickstarter campaigns to determine if th
 An analysis was performed on a selection of over 4000 various Kickstarter campaigns, ranging from potential films to unique inventions. A dataset this large definitely proved challenging as there were many methods required to weed out irrelevant data. Fortunately, a smaller, more focused compilation of data was able to be extracted.
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Theater_Outcomes_vs_Launch](https://github.com/michael999999999/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
