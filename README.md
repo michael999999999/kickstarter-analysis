@@ -13,7 +13,7 @@ An analysis was performed on a selection of over 4000 various Kickstarter campai
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://github.com/michael999999999/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-The first analysis looks at Kickstarter campaigns and their rate of success based on launch month. As is immediately noticeable, campaign success rates spike through the summer months, with campaigns launched in May at the peak. As the holiday season approaches however, an obvious dip in success rate occurs beginning in November. Campaign failure rates, however, do not show any particular trend based solely on time of the year. Two pieces of advice would be to shoot for a May campaign launch date, and avoid launching the campaign during the holidays.
+The first analysis looks at Kickstarter campaigns and their rate of success based on launch month. As is immediately noticeable, campaign success rates spike through the summer months, with campaigns launched in May at the peak. As the holiday season approaches however, an obvious dip in success rate occurs beginning in October. Campaign failure rates, however, do not show any particular trend based solely on time of the year. Two pieces of advice would be to shoot for a May campaign launch date, and avoid launching the campaign during the holidays.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://github.com/michael999999999/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
