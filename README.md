@@ -24,8 +24,4 @@ The second analysis focuses on campaign outcomes relative to their goal funding 
 A dataset this large definitely proved challenging as there were many methods required to weed out irrelevant data. Fortunately, a smaller, more focused compilation of data was able to be extracted. Additional data would be useful in creating an even better picture of Louise's campaign chances. One piece of information that could be greatly beneficial would be to see the genres of successful plays, to determine if one is more successful than another. Additionaly, info such as minimum and maximum donation amounts could also create a better analysis, as we could see if any donations heavily skewed the mean donation. 
 
 ## Results
-In summary, it would seem as though Louise's goals are completely within the realm of possibility. Her goal funding amount of $10000 seems entirely doable, and theater appears to be popular on Kickstarter. As mentioned earlier, I would recommend starting the campaign in the late spring or early summer for the best chance of success. 
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+In summary, it would seem as though Louise's goals are completely within the realm of possibility. Her goal funding amount of $10000 seems entirely doable, and theater appears to be popular on Kickstarter. As mentioned earlier, I would recommend starting the campaign in the late spring or early summer for the best chance of success.
